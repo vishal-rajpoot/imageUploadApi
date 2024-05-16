@@ -17,7 +17,7 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your mach
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone (https://github.com/vishal-rajpoot/imageUploadApi.git)
     ```
 
 2. **Navigate to the project directory:**
